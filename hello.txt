@@ -1,20 +1,4 @@
 hello git!  222222
 hello git!  hotfix
 hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
 hello git!  hotfix
-hello git!  hotfix
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
