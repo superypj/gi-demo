@@ -1,5 +1,5 @@
 hello git!  222222
-hello git!  hotfix
+hello git!  master
 hello git!
 hello git!
 hello git!
@@ -17,4 +17,4 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git! college
+hello git! master
